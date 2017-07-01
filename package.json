@@ -1,0 +1,27 @@
+{
+  "name": "aco-reader",
+  "version": "1.0.0",
+  "description": "Transform aco files to JSON format",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "tape index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://alvaropinot.github.com/aco-reader"
+  },
+  "keywords": [
+    "aco",
+    "reader",
+    "binary",
+    "palette",
+    "adobe",
+    "color"
+  ],
+  "author": "Alvaro Pinot <alvaro@neatnait.com> (https://github.com/alvaropinot)",
+  "license": "MIT"
+}
